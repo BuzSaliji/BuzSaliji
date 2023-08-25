@@ -29,7 +29,24 @@ My name is **Burim Saliji** and welcome to my profile.
 I've recently taken a leap into the world of web development by enrolling in Coder Academy's standard Feb 2023 web development bootcamp. The experience so far has been nothing short of exhilarating. Each day is filled with new challenges and learning opportunities, and I'm genuinely enjoying every moment of it.
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
-  
+
+Languages & Tools - 🚀
+Python
+PostgreSQL
+Flask
+HTML5
+CSS3
+SASS
+GitHub
+
+Languages & Tools - Currently Learning 📘
+JavaScript
+Node.js
+npm
+MongoDB
+React
+
+
 
 
 ### :bar_chart: GitHub stats
