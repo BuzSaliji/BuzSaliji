@@ -21,6 +21,7 @@
 </a>
 </div>
 
+---
 
 ### Hi there 👋🎉
 
@@ -28,9 +29,10 @@ My name is **Burim Saliji** and welcome to my profile.
 
 I've recently taken a leap into the world of web development by enrolling in Coder Academy's standard Feb 2023 web development bootcamp. The experience so far has been nothing short of exhilarating. Each day is filled with new challenges and learning opportunities, and I'm genuinely enjoying every moment of it.
 
+
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
-
+---
 
 ### Languages & Tools - 🚀
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -39,13 +41,7 @@ I've recently taken a leap into the world of web development by enrolling in Cod
 ### Languages & Tools - Currently Learning 📘
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-
-
-
-
-
-
-
+---
 
 ### :bar_chart: GitHub stats
 
