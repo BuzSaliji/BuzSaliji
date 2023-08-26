@@ -23,7 +23,7 @@
 
 ---
 
-### Hi there 👋🎉
+## Hi there 👋🎉
 
 My name is **Burim Saliji** and welcome to my profile.
 
@@ -43,14 +43,12 @@ I've recently taken a leap into the world of web development by enrolling in Cod
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
+![Burim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuzSaliji&show_icons=true&theme=radical)
 
-### :bar_chart: GitHub stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuzSaliji&layout=compact&theme=radical)
 
-[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
 
-[![Burim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuzSaliji&count_private=true&show_icons=true&theme=dark)](https://github.com/BuzSaliji/github-readme-stats)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=BuzSaliji&show_icons=true&theme=dark)
 
  
 </div>
